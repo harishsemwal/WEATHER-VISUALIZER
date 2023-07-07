@@ -12,5 +12,10 @@ Whether you're planning a trip, tracking weather trends, or simply satisfying yo
 
 
 <img width="960" alt="WEATHER VISUALIZER" src="https://github.com/Harishsemwal/WEATHER-VISUALIZER/assets/96759566/3e67fbd9-5141-4f56-b577-62fe37baf5ee">
+
+
+Get instant weather updates for any city on this web page. Enter the city name to view the current temperature and atmospheric conditions. Stay informed about the weather at a glance with our user-friendly interface. Whether you're planning a trip or need to know the local conditions, we've got you covered. No more guessing or checking multiple sources – get the accurate weather information you need in seconds. Experience the convenience of staying up-to-date with real-time weather updates. Visit our website and stay prepared for any weather changes.
+
+
 <img width="960" alt="WEATHER VISUALIZER DEHRADUN" src="https://github.com/Harishsemwal/WEATHER-VISUALIZER/assets/96759566/894aa65b-eae8-411f-85f5-2705922e4bef">
 
